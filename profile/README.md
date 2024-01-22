@@ -8,8 +8,6 @@ OHC represents a unique fusion of professional expertise and community-driven in
 
 Originally a volunteer-driven initiative during the COVID-19 pandemic, OHC has continually addressed citizen-level healthcare problems. Its CARE software, adopted by several Indian states, played a crucial role in optimizing healthcare resource management during the pandemic. As the pandemic waned, CARE evolved to support the 10BedICU Project, enabling technology-driven ICU care in rural India and providing TeleICU services to the remotest regions, impacting thousands of lives.
 
-The 10BedICU program is powered by OHC technology, both of which are anchored at the eGovernments Foundation that was founded by Nandan Nilekani and Srikanth Nadhamuni. 10BedICU has launched ICU wards in 206 hospitals in 9 states and handled over 15,000 critical care patients in the last 2yrs. CARE has developed and deployed several key modules around Pandemic management, TeleICU, Ayushma AI specialist, MediSpeak etc. that are transforming critical care in Govt. hospitals across India.
-
 Today, beyond the 10BedICU Project, CARE is being adopted for various healthcare applications, including palliative care digitization, demonstrating its adaptability and growing significance in improving healthcare delivery across diverse settings. OHC's journey is a testament to the transformative impact of youth-driven initiatives in healthcare, touching the lives of millions across India.
 
 [Overview](https://coronasafe.network/) |
