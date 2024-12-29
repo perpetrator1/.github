@@ -1,4 +1,4 @@
-![image](https://github.com/coronasafe/.github/assets/14979190/06a593c0-6357-4acb-92a8-c0005ff4ec21)
+![image](https://github.com/ohcnetwork/.github/assets/14979190/06a593c0-6357-4acb-92a8-c0005ff4ec21)
 
 # Reimagining Healthcare Delivery
 
