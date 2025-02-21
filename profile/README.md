@@ -13,7 +13,6 @@ Today, beyond the 10BedICU Project, CARE is being adopted for various healthcare
 [Overview](https://ohc.network/) | 
 [TeleICU](https://10bedicu.org/#:~:text=the%2010BedICU%20Program-,Introduction%20to%20the%2010BedICU%20Program,-The%2010BedICU%20project) |
 [Training](https://school.ohc.network/) |
-[Go Live](https://coronasafe.network/go-live) |
 [Supporters](https://ohc.network/supporters)
 
 # Our Mission
